@@ -2,6 +2,7 @@
 
 {ProductName} solution is distributed as set of node.js modules.
 I like modules
+And changing stuff
 Modules provide abstraction layer and can be extended thanks to provided set of interfaces and abstract implementations.
 Please follow sections bellow for complete list of supported modules
 
